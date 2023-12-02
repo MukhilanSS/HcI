@@ -1,0 +1,15 @@
+<html>
+<body>
+<frameset cols="20% 60% 20%">
+<frame src="f1.html"></frame>
+<frameset cols="20% 60% 20%">
+<frmae src="f2.html"></frame>
+<frmae src="f2.html"></frame>
+<frmae src="f2.html"></frame>
+</frameset>
+<frameset cols="100%">
+<frmae src="f2.html"></frame>
+</frameset>
+</frameset>
+</body>
+</html>
